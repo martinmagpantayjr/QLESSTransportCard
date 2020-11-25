@@ -1,0 +1,670 @@
+[
+    {
+        "Fare": 11,
+        "FromLocation": "Recto",
+        "ToLocation": "Recto",
+        "Line": 2
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "Legarda",
+        "ToLocation": "Recto",
+        "Line": 2
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "Pureza",
+        "ToLocation": "Recto",
+        "Line": 2
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "V. Mapa",
+        "ToLocation": "Recto",
+        "Line": 2
+    },
+    {
+        "Fare": 16,
+        "FromLocation": "J. Ruiz",
+        "ToLocation": "Recto",
+        "Line": 2
+    },
+    {
+        "Fare": 17,
+        "FromLocation": "Gilmore",
+        "ToLocation": "Recto",
+        "Line": 2
+    },
+    {
+        "Fare": 18,
+        "FromLocation": "Betty-Go",
+        "ToLocation": "Recto",
+        "Line": 2
+    },
+    {
+        "Fare": 19,
+        "FromLocation": "Cubao",
+        "ToLocation": "Recto",
+        "Line": 2
+    },
+    {
+        "Fare": 21,
+        "FromLocation": "Anonas",
+        "ToLocation": "Recto",
+        "Line": 2
+    },
+    {
+        "Fare": 22,
+        "FromLocation": "Katipunan",
+        "ToLocation": "Recto",
+        "Line": 2
+    },
+    {
+        "Fare": 24,
+        "FromLocation": "Santolan",
+        "ToLocation": "Recto",
+        "Line": 2
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "Recto",
+        "ToLocation": "Legarda",
+        "Line": 2
+    },
+    {
+        "Fare": 11,
+        "FromLocation": "Legarda",
+        "ToLocation": "Legarda",
+        "Line": 2
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "Pureza",
+        "ToLocation": "Legarda",
+        "Line": 2
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "V. Mapa",
+        "ToLocation": "Legarda",
+        "Line": 2
+    },
+    {
+        "Fare": 16,
+        "FromLocation": "J. Ruiz",
+        "ToLocation": "Legarda",
+        "Line": 2
+    },
+    {
+        "Fare": 17,
+        "FromLocation": "Gilmore",
+        "ToLocation": "Legarda",
+        "Line": 2
+    },
+    {
+        "Fare": 18,
+        "FromLocation": "Betty-Go",
+        "ToLocation": "Legarda",
+        "Line": 2
+    },
+    {
+        "Fare": 19,
+        "FromLocation": "Cubao",
+        "ToLocation": "Legarda",
+        "Line": 2
+    },
+    {
+        "Fare": 20,
+        "FromLocation": "Anonas",
+        "ToLocation": "Legarda",
+        "Line": 2
+    },
+    {
+        "Fare": 21,
+        "FromLocation": "Katipunan",
+        "ToLocation": "Legarda",
+        "Line": 2
+    },
+    {
+        "Fare": 22,
+        "FromLocation": "Santolan",
+        "ToLocation": "Legarda",
+        "Line": 2
+    },
+    
+    {
+        "Fare": 14,
+        "FromLocation": "Recto",
+        "ToLocation": "Pureza",
+        "Line": 2
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "Legarda",
+        "ToLocation": "Pureza",
+        "Line": 2
+    },
+    {
+        "Fare": 11,
+        "FromLocation": "Pureza",
+        "ToLocation": "Pureza",
+        "Line": 2
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "V. Mapa",
+        "ToLocation": "Pureza",
+        "Line": 2
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "J. Ruiz",
+        "ToLocation": "Pureza",
+        "Line": 2
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "Gilmore",
+        "ToLocation": "Pureza",
+        "Line": 2
+    },
+    {
+        "Fare": 16,
+        "FromLocation": "Betty-Go",
+        "ToLocation": "Pureza",
+        "Line": 2
+    },
+    {
+        "Fare": 17,
+        "FromLocation": "Cubao",
+        "ToLocation": "Pureza",
+        "Line": 2
+    },
+    {
+        "Fare": 19,
+        "FromLocation": "Anonas",
+        "ToLocation": "Pureza",
+        "Line": 2
+    },
+    {
+        "Fare": 20,
+        "FromLocation": "Katipunan",
+        "ToLocation": "Pureza",
+        "Line": 2
+    },
+    {
+        "Fare": 22,
+        "FromLocation": "Santolan",
+        "ToLocation": "Pureza",
+        "Line": 2
+    },
+    
+    {
+        "Fare": 15,
+        "FromLocation": "Recto",
+        "ToLocation": "V. Mapa",
+        "Line": 2
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "Legarda",
+        "ToLocation": "V. Mapa",
+        "Line": 2
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "Pureza",
+        "ToLocation": "V. Mapa",
+        "Line": 2
+    },
+    {
+        "Fare": 11,
+        "FromLocation": "V. Mapa",
+        "ToLocation": "V. Mapa",
+        "Line": 2
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "J. Ruiz",
+        "ToLocation": "V. Mapa",
+        "Line": 2
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "Gilmore",
+        "ToLocation": "V. Mapa",
+        "Line": 2
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "Betty-Go",
+        "ToLocation": "V. Mapa",
+        "Line": 2
+    },
+    {
+        "Fare": 16,
+        "FromLocation": "Cubao",
+        "ToLocation": "V. Mapa",
+        "Line": 2
+    },
+    {
+        "Fare": 18,
+        "FromLocation": "Anonas",
+        "ToLocation": "V. Mapa",
+        "Line": 2
+    },
+    {
+        "Fare": 19,
+        "FromLocation": "Katipunan",
+        "ToLocation": "V. Mapa",
+        "Line": 2
+    },
+    {
+        "Fare": 21,
+        "FromLocation": "Santolan",
+        "ToLocation": "V. Mapa",
+        "Line": 2
+    },
+    
+    {
+        "Fare": 16,
+        "FromLocation": "Recto",
+        "ToLocation": "J. Ruiz",
+        "Line": 2
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "Legarda",
+        "ToLocation": "J. Ruiz",
+        "Line": 2
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "Pureza",
+        "ToLocation": "J. Ruiz",
+        "Line": 2
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "V. Mapa",
+        "ToLocation": "J. Ruiz",
+        "Line": 2
+    },
+    {
+        "Fare": 11,
+        "FromLocation": "J. Ruiz",
+        "ToLocation": "J. Ruiz",
+        "Line": 2
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "Gilmore",
+        "ToLocation": "J. Ruiz",
+        "Line": 2
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "Betty-Go",
+        "ToLocation": "J. Ruiz",
+        "Line": 2
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "Cubao",
+        "ToLocation": "J. Ruiz",
+        "Line": 2
+    },
+    {
+        "Fare": 16,
+        "FromLocation": "Anonas",
+        "ToLocation": "J. Ruiz",
+        "Line": 2
+    },
+    {
+        "Fare": 17,
+        "FromLocation": "Katipunan",
+        "ToLocation": "J. Ruiz",
+        "Line": 2
+    },
+    {
+        "Fare": 19,
+        "FromLocation": "Santolan",
+        "ToLocation": "J. Ruiz",
+        "Line": 2
+    },
+    
+    {
+        "Fare": 17,
+        "FromLocation": "Recto",
+        "ToLocation": "Gilmore",
+        "Line": 2
+    },
+    {
+        "Fare": 16,
+        "FromLocation": "Legarda",
+        "ToLocation": "Gilmore",
+        "Line": 2
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "Pureza",
+        "ToLocation": "Gilmore",
+        "Line": 2
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "V. Mapa",
+        "ToLocation": "Gilmore",
+        "Line": 2
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "J. Ruiz",
+        "ToLocation": "Gilmore",
+        "Line": 2
+    },
+    {
+        "Fare": 11,
+        "FromLocation": "Gilmore",
+        "ToLocation": "Gilmore",
+        "Line": 2
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "Betty-Go",
+        "ToLocation": "Gilmore",
+        "Line": 2
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "Cubao",
+        "ToLocation": "Gilmore",
+        "Line": 2
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "Anonas",
+        "ToLocation": "Gilmore",
+        "Line": 2
+    },
+    {
+        "Fare": 16,
+        "FromLocation": "Katipunan",
+        "ToLocation": "Gilmore",
+        "Line": 2
+    },
+    {
+        "Fare": 18,
+        "FromLocation": "Santolan",
+        "ToLocation": "Gilmore",
+        "Line": 2
+    },
+    
+    {
+        "Fare": 18,
+        "FromLocation": "Recto",
+        "ToLocation": "Betty-Go",
+        "Line": 2
+    },
+    {
+        "Fare": 17,
+        "FromLocation": "Legarda",
+        "ToLocation": "Betty-Go",
+        "Line": 2
+    },
+    {
+        "Fare": 16,
+        "FromLocation": "Pureza",
+        "ToLocation": "Betty-Go",
+        "Line": 2
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "V. Mapa",
+        "ToLocation": "Betty-Go",
+        "Line": 2
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "J. Ruiz",
+        "ToLocation": "Betty-Go",
+        "Line": 2
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "Gilmore",
+        "ToLocation": "Betty-Go",
+        "Line": 2
+    },
+    {
+        "Fare": 11,
+        "FromLocation": "Betty-Go",
+        "ToLocation": "Betty-Go",
+        "Line": 2
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "Cubao",
+        "ToLocation": "Betty-Go",
+        "Line": 2
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "Anonas",
+        "ToLocation": "Betty-Go",
+        "Line": 2
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "Katipunan",
+        "ToLocation": "Betty-Go",
+        "Line": 2
+    },
+    {
+        "Fare": 17,
+        "FromLocation": "Santolan",
+        "ToLocation": "Betty-Go",
+        "Line": 2
+    },
+    
+    {
+        "Fare": 19,
+        "FromLocation": "Recto",
+        "ToLocation": "Cubao",
+        "Line": 2
+    },
+    {
+        "Fare": 18,
+        "FromLocation": "Legarda",
+        "ToLocation": "Cubao",
+        "Line": 2
+    },
+    {
+        "Fare": 17,
+        "FromLocation": "Pureza",
+        "ToLocation": "Cubao",
+        "Line": 2
+    },
+    {
+        "Fare": 16,
+        "FromLocation": "V. Mapa",
+        "ToLocation": "Cubao",
+        "Line": 2
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "J. Ruiz",
+        "ToLocation": "Cubao",
+        "Line": 2
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "Gilmore",
+        "ToLocation": "Cubao",
+        "Line": 2
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "Betty-Go",
+        "ToLocation": "Cubao",
+        "Line": 2
+    },
+    {
+        "Fare": 11,
+        "FromLocation": "Cubao",
+        "ToLocation": "Cubao",
+        "Line": 2
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "Anonas",
+        "ToLocation": "Cubao",
+        "Line": 2
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "Katipunan",
+        "ToLocation": "Cubao",
+        "Line": 2
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "Santolan",
+        "ToLocation": "Cubao",
+        "Line": 2
+    },
+    
+    {
+        "Fare": 21,
+        "FromLocation": "Recto",
+        "ToLocation": "Anonas",
+        "Line": 2
+    },
+    {
+        "Fare": 20,
+        "FromLocation": "Legarda",
+        "ToLocation": "Anonas",
+        "Line": 2
+    },
+    {
+        "Fare": 19,
+        "FromLocation": "Pureza",
+        "ToLocation": "Anonas",
+        "Line": 2
+    },
+    {
+        "Fare": 18,
+        "FromLocation": "V. Mapa",
+        "ToLocation": "Anonas",
+        "Line": 2
+    },
+    {
+        "Fare": 16,
+        "FromLocation": "J. Ruiz",
+        "ToLocation": "Anonas",
+        "Line": 2
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "Gilmore",
+        "ToLocation": "Anonas",
+        "Line": 2
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "Betty-Go",
+        "ToLocation": "Anonas",
+        "Line": 2
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "Cubao",
+        "ToLocation": "Anonas",
+        "Line": 2
+    },
+    {
+        "Fare": 11,
+        "FromLocation": "Anonas",
+        "ToLocation": "Anonas",
+        "Line": 2
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "Katipunan",
+        "ToLocation": "Anonas",
+        "Line": 2
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "Santolan",
+        "ToLocation": "Anonas",
+        "Line": 2
+    },
+    
+    {
+        "Fare": 24,
+        "FromLocation": "Recto",
+        "ToLocation": "Santolan",
+        "Line": 2
+    },
+    {
+        "Fare": 23,
+        "FromLocation": "Legarda",
+        "ToLocation": "Santolan",
+        "Line": 2
+    },
+    {
+        "Fare": 22,
+        "FromLocation": "Pureza",
+        "ToLocation": "Santolan",
+        "Line": 2
+    },
+    {
+        "Fare": 21,
+        "FromLocation": "V. Mapa",
+        "ToLocation": "Santolan",
+        "Line": 2
+    },
+    {
+        "Fare": 19,
+        "FromLocation": "J. Ruiz",
+        "ToLocation": "Santolan",
+        "Line": 2
+    },
+    {
+        "Fare": 18,
+        "FromLocation": "Gilmore",
+        "ToLocation": "Santolan",
+        "Line": 2
+    },
+    {
+        "Fare": 17,
+        "FromLocation": "Betty-Go",
+        "ToLocation": "Santolan",
+        "Line": 2
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "Cubao",
+        "ToLocation": "Santolan",
+        "Line": 2
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "Anonas",
+        "ToLocation": "Santolan",
+        "Line": 2
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "Katipunan",
+        "ToLocation": "Santolan",
+        "Line": 2
+    },
+    {
+        "Fare": 11,
+        "FromLocation": "Santolan",
+        "ToLocation": "Santolan",
+        "Line": 2
+    }
+]

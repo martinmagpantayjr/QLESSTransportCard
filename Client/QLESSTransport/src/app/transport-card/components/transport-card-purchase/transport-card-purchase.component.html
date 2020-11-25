@@ -1,0 +1,21 @@
+<div class="row">
+    <div class="col-12">
+        <h3 class="bg-light py-4">Purchase your card here <br>
+            <h6 class="text-danger pt-2">NOTE: Load amount should be equal or greater than P100.00 but less than or
+                equal to P10,000.00</h6>
+        </h3>
+    </div>
+
+    <div class="col-12">
+        <form [formGroup]="purchaseForm" (ngSubmit)="onSubmit(purchaseForm.value)">
+            <div class="form-group row">
+                <label for="load" class="col-sm-2 col-form-label">Load Amount:</label>
+                <div class="col-sm-10">
+                    <input id="load" type="number" min="100" max="10000" formControlName="load" required>
+                </div>
+            </div>
+            <button type="submit" class="btn btn-primary"
+                [disabled]="purchaseForm.invalid || processing">{{processBtnLabel}}</button>
+        </form>
+    </div>
+</div>

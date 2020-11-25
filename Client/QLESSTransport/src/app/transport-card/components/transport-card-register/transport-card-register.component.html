@@ -1,0 +1,37 @@
+<div class="row">
+    <div class="col-12">
+        <h3 class="bg-light py-4">Register your card here <br>
+            <h6 class="text-danger pt-2">NOTE: This discount is for PWD and Senior Citizen Only</h6>
+        </h3>
+    </div>
+
+    <div class="col-12">
+        <form [formGroup]="registerForm" (ngSubmit)="onSubmit(registerForm.value)">
+            <div class="form-group row">
+                <label for="transportCardId" class="col-sm-2 col-form-label">Transport Card ID:</label>
+                <div class="col-sm-10">
+                    <input id="transportCardId" type="number" formControlName="transportCardId">
+                </div>
+            </div>
+            <div class="form-group row">
+                <label for="discountRegistrationType1" class="col-sm-2 col-form-label">PWD:</label>
+                <div class="col-sm-10">
+                    <input class="align-middle" id="discountRegistrationType1" name="discountRegistrationType" type="radio" value="0" formControlName="discountRegistrationType">
+                </div>
+                
+                <label for="discountRegistrationType2" class="col-sm-2 col-form-label">Senior Citizen ID:</label>
+                <div class="col-sm-10">
+                    <input class="align-middle" id="discountRegistrationType2" name="discountRegistrationType" type="radio" value="1" formControlName="discountRegistrationType">
+                </div>
+            </div>
+            <div class="form-group row">
+                <label for="discountId" class="col-sm-2 col-form-label">{{idLabel}}:</label>
+                <div class="col-sm-10">
+                    <input class="align-middle" id="discountId" type="text" formControlName="discountId" [placeholder]="formatPlaceholder">
+                </div>
+            </div>
+            <button type="submit" class="btn btn-primary"
+                [disabled]="registerForm.invalid || processing">{{processBtnLabel}}</button>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,2421 @@
+[
+    {
+        "Fare": 11,
+        "FromLocation": "Baclaran",
+        "ToLocation": "Baclaran",
+        "Line": 1
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "Edsa",
+        "ToLocation": "Baclaran",
+        "Line": 1
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "Libertad",
+        "ToLocation": "Baclaran",
+        "Line": 1
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "Gil Puyat",
+        "ToLocation": "Baclaran",
+        "Line": 1
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "V. Cruz",
+        "ToLocation": "Baclaran",
+        "Line": 1
+    },
+    {
+        "Fare": 16,
+        "FromLocation": "Quirino",
+        "ToLocation": "Baclaran",
+        "Line": 1
+    },
+    {
+        "Fare": 17,
+        "FromLocation": "P. Gil",
+        "ToLocation": "Baclaran",
+        "Line": 1
+    },
+    {
+        "Fare": 18,
+        "FromLocation": "United Nations",
+        "ToLocation": "Baclaran",
+        "Line": 1
+    },
+    {
+        "Fare": 19,
+        "FromLocation": "C. Terminal",
+        "ToLocation": "Baclaran",
+        "Line": 1
+    },
+    {
+        "Fare": 19,
+        "FromLocation": "Carriedo",
+        "ToLocation": "Baclaran",
+        "Line": 1
+    },
+    {
+        "Fare": 20,
+        "FromLocation": "D. Jose",
+        "ToLocation": "Baclaran",
+        "Line": 1
+    },
+    {
+        "Fare": 21,
+        "FromLocation": "Bambang",
+        "ToLocation": "Baclaran",
+        "Line": 1
+    },
+    {
+        "Fare": 22,
+        "FromLocation": "Tayuman",
+        "ToLocation": "Baclaran",
+        "Line": 1
+    },
+    {
+        "Fare": 23,
+        "FromLocation": "Blumentritt",
+        "ToLocation": "Baclaran",
+        "Line": 1
+    },
+    {
+        "Fare": 24,
+        "FromLocation": "A. Santos",
+        "ToLocation": "Baclaran",
+        "Line": 1
+    },
+    {
+        "Fare": 25,
+        "FromLocation": "R. Papa",
+        "ToLocation": "Baclaran",
+        "Line": 1
+    },
+    {
+        "Fare": 26,
+        "FromLocation": "5th Ave",
+        "ToLocation": "Baclaran",
+        "Line": 1
+    },
+    {
+        "Fare": 27,
+        "FromLocation": "Monumento",
+        "ToLocation": "Baclaran",
+        "Line": 1
+    },
+    {
+        "Fare": 28,
+        "FromLocation": "Balintawak",
+        "ToLocation": "Baclaran",
+        "Line": 1
+    },
+    {
+        "Fare": 29,
+        "FromLocation": "Roosevelt",
+        "ToLocation": "Baclaran",
+        "Line": 1
+    },
+    
+    {
+        "Fare": 12,
+        "FromLocation": "Baclaran",
+        "ToLocation": "Edsa",
+        "Line": 1
+    },
+    {
+        "Fare": 11,
+        "FromLocation": "Edsa",
+        "ToLocation": "Edsa",
+        "Line": 1
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "Libertad",
+        "ToLocation": "Edsa",
+        "Line": 1
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "Gil Puyat",
+        "ToLocation": "Edsa",
+        "Line": 1
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "V. Cruz",
+        "ToLocation": "Edsa",
+        "Line": 1
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "Quirino",
+        "ToLocation": "Edsa",
+        "Line": 1
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "P. Gil",
+        "ToLocation": "Edsa",
+        "Line": 1
+    },
+    {
+        "Fare": 16,
+        "FromLocation": "United Nations",
+        "ToLocation": "Edsa",
+        "Line": 1
+    },
+    {
+        "Fare": 17,
+        "FromLocation": "C. Terminal",
+        "ToLocation": "Edsa",
+        "Line": 1
+    },
+    {
+        "Fare": 18,
+        "FromLocation": "Carriedo",
+        "ToLocation": "Edsa",
+        "Line": 1
+    },
+    {
+        "Fare": 19,
+        "FromLocation": "D. Jose",
+        "ToLocation": "Edsa",
+        "Line": 1
+    },
+    {
+        "Fare": 19,
+        "FromLocation": "Bambang",
+        "ToLocation": "Edsa",
+        "Line": 1
+    },
+    {
+        "Fare": 20,
+        "FromLocation": "Tayuman",
+        "ToLocation": "Edsa",
+        "Line": 1
+    },
+    {
+        "Fare": 21,
+        "FromLocation": "Blumentritt",
+        "ToLocation": "Edsa",
+        "Line": 1
+    },
+    {
+        "Fare": 22,
+        "FromLocation": "A. Santos",
+        "ToLocation": "Edsa",
+        "Line": 1
+    },
+    {
+        "Fare": 22,
+        "FromLocation": "R. Papa",
+        "ToLocation": "Edsa",
+        "Line": 1
+    },
+    {
+        "Fare": 23,
+        "FromLocation": "5th Ave",
+        "ToLocation": "Edsa",
+        "Line": 1
+    },
+    {
+        "Fare": 24,
+        "FromLocation": "Monumento",
+        "ToLocation": "Edsa",
+        "Line": 1
+    },
+    {
+        "Fare": 27,
+        "FromLocation": "Balintawak",
+        "ToLocation": "Edsa",
+        "Line": 1
+    },
+    {
+        "Fare": 29,
+        "FromLocation": "Roosevelt",
+        "ToLocation": "Edsa",
+        "Line": 1
+    },
+    
+    {
+        "Fare": 13,
+        "FromLocation": "Baclaran",
+        "ToLocation": "Libertad",
+        "Line": 1
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "Edsa",
+        "ToLocation": "Libertad",
+        "Line": 1
+    },
+    {
+        "Fare": 11,
+        "FromLocation": "Libertad",
+        "ToLocation": "Libertad",
+        "Line": 1
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "Gil Puyat",
+        "ToLocation": "Libertad",
+        "Line": 1
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "V. Cruz",
+        "ToLocation": "Libertad",
+        "Line": 1
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "Quirino",
+        "ToLocation": "Libertad",
+        "Line": 1
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "P. Gil",
+        "ToLocation": "Libertad",
+        "Line": 1
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "United Nations",
+        "ToLocation": "Libertad",
+        "Line": 1
+    },
+    {
+        "Fare": 16,
+        "FromLocation": "C. Terminal",
+        "ToLocation": "Libertad",
+        "Line": 1
+    },
+    {
+        "Fare": 17,
+        "FromLocation": "Carriedo",
+        "ToLocation": "Libertad",
+        "Line": 1
+    },
+    {
+        "Fare": 18,
+        "FromLocation": "D. Jose",
+        "ToLocation": "Libertad",
+        "Line": 1
+    },
+    {
+        "Fare": 18,
+        "FromLocation": "Bambang",
+        "ToLocation": "Libertad",
+        "Line": 1
+    },
+    {
+        "Fare": 19,
+        "FromLocation": "Tayuman",
+        "ToLocation": "Libertad",
+        "Line": 1
+    },
+    {
+        "Fare": 20,
+        "FromLocation": "Blumentritt",
+        "ToLocation": "Libertad",
+        "Line": 1
+    },
+    {
+        "Fare": 21,
+        "FromLocation": "A. Santos",
+        "ToLocation": "Libertad",
+        "Line": 1
+    },
+    {
+        "Fare": 21,
+        "FromLocation": "R. Papa",
+        "ToLocation": "Libertad",
+        "Line": 1
+    },
+    {
+        "Fare": 22,
+        "FromLocation": "5th Ave",
+        "ToLocation": "Libertad",
+        "Line": 1
+    },
+    {
+        "Fare": 23,
+        "FromLocation": "Monumento",
+        "ToLocation": "Libertad",
+        "Line": 1
+    },
+    {
+        "Fare": 26,
+        "FromLocation": "Balintawak",
+        "ToLocation": "Libertad",
+        "Line": 1
+    },
+    {
+        "Fare": 28,
+        "FromLocation": "Roosevelt",
+        "ToLocation": "Libertad",
+        "Line": 1
+    },
+    
+    {
+        "Fare": 13,
+        "FromLocation": "Baclaran",
+        "ToLocation": "Gil Puyat",
+        "Line": 1
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "Edsa",
+        "ToLocation": "Gil Puyat",
+        "Line": 1
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "Libertad",
+        "ToLocation": "Gil Puyat",
+        "Line": 1
+    },
+    {
+        "Fare": 11,
+        "FromLocation": "Gil Puyat",
+        "ToLocation": "Gil Puyat",
+        "Line": 1
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "V. Cruz",
+        "ToLocation": "Gil Puyat",
+        "Line": 1
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "Quirino",
+        "ToLocation": "Gil Puyat",
+        "Line": 1
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "P. Gil",
+        "ToLocation": "Gil Puyat",
+        "Line": 1
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "United Nations",
+        "ToLocation": "Gil Puyat",
+        "Line": 1
+    },
+    {
+        "Fare": 16,
+        "FromLocation": "C. Terminal",
+        "ToLocation": "Gil Puyat",
+        "Line": 1
+    },
+    {
+        "Fare": 16,
+        "FromLocation": "Carriedo",
+        "ToLocation": "Gil Puyat",
+        "Line": 1
+    },
+    {
+        "Fare": 17,
+        "FromLocation": "D. Jose",
+        "ToLocation": "Gil Puyat",
+        "Line": 1
+    },
+    {
+        "Fare": 18,
+        "FromLocation": "Bambang",
+        "ToLocation": "Gil Puyat",
+        "Line": 1
+    },
+    {
+        "Fare": 18,
+        "FromLocation": "Tayuman",
+        "ToLocation": "Gil Puyat",
+        "Line": 1
+    },
+    {
+        "Fare": 19,
+        "FromLocation": "Blumentritt",
+        "ToLocation": "Gil Puyat",
+        "Line": 1
+    },
+    {
+        "Fare": 20,
+        "FromLocation": "A. Santos",
+        "ToLocation": "Gil Puyat",
+        "Line": 1
+    },
+    {
+        "Fare": 21,
+        "FromLocation": "R. Papa",
+        "ToLocation": "Gil Puyat",
+        "Line": 1
+    },
+    {
+        "Fare": 22,
+        "FromLocation": "5th Ave",
+        "ToLocation": "Gil Puyat",
+        "Line": 1
+    },
+    {
+        "Fare": 23,
+        "FromLocation": "Monumento",
+        "ToLocation": "Gil Puyat",
+        "Line": 1
+    },
+    {
+        "Fare": 26,
+        "FromLocation": "Balintawak",
+        "ToLocation": "Gil Puyat",
+        "Line": 1
+    },
+    {
+        "Fare": 28,
+        "FromLocation": "Roosevelt",
+        "ToLocation": "Gil Puyat",
+        "Line": 1
+    },
+    
+    {
+        "Fare": 14,
+        "FromLocation": "Baclaran",
+        "ToLocation": "V. Cruz",
+        "Line": 1
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "Edsa",
+        "ToLocation": "V. Cruz",
+        "Line": 1
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "Libertad",
+        "ToLocation": "V. Cruz",
+        "Line": 1
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "Gil Puyat",
+        "ToLocation": "V. Cruz",
+        "Line": 1
+    },
+    {
+        "Fare": 11,
+        "FromLocation": "V. Cruz",
+        "ToLocation": "V. Cruz",
+        "Line": 1
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "Quirino",
+        "ToLocation": "V. Cruz",
+        "Line": 1
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "P. Gil",
+        "ToLocation": "V. Cruz",
+        "Line": 1
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "United Nations",
+        "ToLocation": "V. Cruz",
+        "Line": 1
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "C. Terminal",
+        "ToLocation": "V. Cruz",
+        "Line": 1
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "Carriedo",
+        "ToLocation": "V. Cruz",
+        "Line": 1
+    },
+    {
+        "Fare": 16,
+        "FromLocation": "D. Jose",
+        "ToLocation": "V. Cruz",
+        "Line": 1
+    },
+    {
+        "Fare": 17,
+        "FromLocation": "Bambang",
+        "ToLocation": "V. Cruz",
+        "Line": 1
+    },
+    {
+        "Fare": 17,
+        "FromLocation": "Tayuman",
+        "ToLocation": "V. Cruz",
+        "Line": 1
+    },
+    {
+        "Fare": 18,
+        "FromLocation": "Blumentritt",
+        "ToLocation": "V. Cruz",
+        "Line": 1
+    },
+    {
+        "Fare": 19,
+        "FromLocation": "A. Santos",
+        "ToLocation": "V. Cruz",
+        "Line": 1
+    },
+    {
+        "Fare": 20,
+        "FromLocation": "R. Papa",
+        "ToLocation": "V. Cruz",
+        "Line": 1
+    },
+    {
+        "Fare": 21,
+        "FromLocation": "5th Ave",
+        "ToLocation": "V. Cruz",
+        "Line": 1
+    },
+    {
+        "Fare": 22,
+        "FromLocation": "Monumento",
+        "ToLocation": "V. Cruz",
+        "Line": 1
+    },
+    {
+        "Fare": 24,
+        "FromLocation": "Balintawak",
+        "ToLocation": "V. Cruz",
+        "Line": 1
+    },
+    {
+        "Fare": 26,
+        "FromLocation": "Roosevelt",
+        "ToLocation": "V. Cruz",
+        "Line": 1
+    },
+    
+    {
+        "Fare": 15,
+        "FromLocation": "Baclaran",
+        "ToLocation": "Quirino",
+        "Line": 1
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "Edsa",
+        "ToLocation": "Quirino",
+        "Line": 1
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "Libertad",
+        "ToLocation": "Quirino",
+        "Line": 1
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "Gil Puyat",
+        "ToLocation": "Quirino",
+        "Line": 1
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "V. Cruz",
+        "ToLocation": "Quirino",
+        "Line": 1
+    },
+    {
+        "Fare": 11,
+        "FromLocation": "Quirino",
+        "ToLocation": "Quirino",
+        "Line": 1
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "P. Gil",
+        "ToLocation": "Quirino",
+        "Line": 1
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "United Nations",
+        "ToLocation": "Quirino",
+        "Line": 1
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "C. Terminal",
+        "ToLocation": "Quirino",
+        "Line": 1
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "Carriedo",
+        "ToLocation": "Quirino",
+        "Line": 1
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "D. Jose",
+        "ToLocation": "Quirino",
+        "Line": 1
+    },
+    {
+        "Fare": 16,
+        "FromLocation": "Bambang",
+        "ToLocation": "Quirino",
+        "Line": 1
+    },
+    {
+        "Fare": 16,
+        "FromLocation": "Tayuman",
+        "ToLocation": "Quirino",
+        "Line": 1
+    },
+    {
+        "Fare": 17,
+        "FromLocation": "Blumentritt",
+        "ToLocation": "Quirino",
+        "Line": 1
+    },
+    {
+        "Fare": 18,
+        "FromLocation": "A. Santos",
+        "ToLocation": "Quirino",
+        "Line": 1
+    },
+    {
+        "Fare": 19,
+        "FromLocation": "R. Papa",
+        "ToLocation": "Quirino",
+        "Line": 1
+    },
+    {
+        "Fare": 20,
+        "FromLocation": "5th Ave",
+        "ToLocation": "Quirino",
+        "Line": 1
+    },
+    {
+        "Fare": 21,
+        "FromLocation": "Monumento",
+        "ToLocation": "Quirino",
+        "Line": 1
+    },
+    {
+        "Fare": 23,
+        "FromLocation": "Balintawak",
+        "ToLocation": "Quirino",
+        "Line": 1
+    },
+    {
+        "Fare": 25,
+        "FromLocation": "Roosevelt",
+        "ToLocation": "Quirino",
+        "Line": 1
+    },
+    
+    {
+        "Fare": 16,
+        "FromLocation": "Baclaran",
+        "ToLocation": "P. Gil",
+        "Line": 1
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "Edsa",
+        "ToLocation": "P. Gil",
+        "Line": 1
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "Libertad",
+        "ToLocation": "P. Gil",
+        "Line": 1
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "Gil Puyat",
+        "ToLocation": "P. Gil",
+        "Line": 1
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "V. Cruz",
+        "ToLocation": "P. Gil",
+        "Line": 1
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "Quirino",
+        "ToLocation": "P. Gil",
+        "Line": 1
+    },
+    {
+        "Fare": 11,
+        "FromLocation": "P. Gil",
+        "ToLocation": "P. Gil",
+        "Line": 1
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "United Nations",
+        "ToLocation": "P. Gil",
+        "Line": 1
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "C. Terminal",
+        "ToLocation": "P. Gil",
+        "Line": 1
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "Carriedo",
+        "ToLocation": "P. Gil",
+        "Line": 1
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "D. Jose",
+        "ToLocation": "P. Gil",
+        "Line": 1
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "Bambang",
+        "ToLocation": "P. Gil",
+        "Line": 1
+    },
+    {
+        "Fare": 16,
+        "FromLocation": "Tayuman",
+        "ToLocation": "P. Gil",
+        "Line": 1
+    },
+    {
+        "Fare": 16,
+        "FromLocation": "Blumentritt",
+        "ToLocation": "P. Gil",
+        "Line": 1
+    },
+    {
+        "Fare": 17,
+        "FromLocation": "A. Santos",
+        "ToLocation": "P. Gil",
+        "Line": 1
+    },
+    {
+        "Fare": 18,
+        "FromLocation": "R. Papa",
+        "ToLocation": "P. Gil",
+        "Line": 1
+    },
+    {
+        "Fare": 19,
+        "FromLocation": "5th Ave",
+        "ToLocation": "P. Gil",
+        "Line": 1
+    },
+    {
+        "Fare": 20,
+        "FromLocation": "Monumento",
+        "ToLocation": "P. Gil",
+        "Line": 1
+    },
+    {
+        "Fare": 22,
+        "FromLocation": "Balintawak",
+        "ToLocation": "P. Gil",
+        "Line": 1
+    },
+    {
+        "Fare": 24,
+        "FromLocation": "Roosevelt",
+        "ToLocation": "P. Gil",
+        "Line": 1
+    },
+    
+    {
+        "Fare": 17,
+        "FromLocation": "Baclaran",
+        "ToLocation": "United Nations",
+        "Line": 1
+    },
+    {
+        "Fare": 16,
+        "FromLocation": "Edsa",
+        "ToLocation": "United Nations",
+        "Line": 1
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "Libertad",
+        "ToLocation": "United Nations",
+        "Line": 1
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "Gil Puyat",
+        "ToLocation": "United Nations",
+        "Line": 1
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "V. Cruz",
+        "ToLocation": "United Nations",
+        "Line": 1
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "Quirino",
+        "ToLocation": "United Nations",
+        "Line": 1
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "P. Gil",
+        "ToLocation": "United Nations",
+        "Line": 1
+    },
+    {
+        "Fare": 11,
+        "FromLocation": "United Nations",
+        "ToLocation": "United Nations",
+        "Line": 1
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "C. Terminal",
+        "ToLocation": "United Nations",
+        "Line": 1
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "Carriedo",
+        "ToLocation": "United Nations",
+        "Line": 1
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "D. Jose",
+        "ToLocation": "United Nations",
+        "Line": 1
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "Bambang",
+        "ToLocation": "United Nations",
+        "Line": 1
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "Tayuman",
+        "ToLocation": "United Nations",
+        "Line": 1
+    },
+    {
+        "Fare": 16,
+        "FromLocation": "Blumentritt",
+        "ToLocation": "United Nations",
+        "Line": 1
+    },
+    {
+        "Fare": 17,
+        "FromLocation": "A. Santos",
+        "ToLocation": "United Nations",
+        "Line": 1
+    },
+    {
+        "Fare": 17,
+        "FromLocation": "R. Papa",
+        "ToLocation": "United Nations",
+        "Line": 1
+    },
+    {
+        "Fare": 18,
+        "FromLocation": "5th Ave",
+        "ToLocation": "United Nations",
+        "Line": 1
+    },
+    {
+        "Fare": 19,
+        "FromLocation": "Monumento",
+        "ToLocation": "United Nations",
+        "Line": 1
+    },
+    {
+        "Fare": 22,
+        "FromLocation": "Balintawak",
+        "ToLocation": "United Nations",
+        "Line": 1
+    },
+    {
+        "Fare": 23,
+        "FromLocation": "Roosevelt",
+        "ToLocation": "United Nations",
+        "Line": 1
+    },
+    
+    {
+        "Fare": 18,
+        "FromLocation": "Baclaran",
+        "ToLocation": "C. Terminal",
+        "Line": 1
+    },
+    {
+        "Fare": 17,
+        "FromLocation": "Edsa",
+        "ToLocation": "C. Terminal",
+        "Line": 1
+    },
+    {
+        "Fare": 16,
+        "FromLocation": "Libertad",
+        "ToLocation": "C. Terminal",
+        "Line": 1
+    },
+    {
+        "Fare": 16,
+        "FromLocation": "Gil Puyat",
+        "ToLocation": "C. Terminal",
+        "Line": 1
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "V. Cruz",
+        "ToLocation": "C. Terminal",
+        "Line": 1
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "Quirino",
+        "ToLocation": "C. Terminal",
+        "Line": 1
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "P. Gil",
+        "ToLocation": "C. Terminal",
+        "Line": 1
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "United Nations",
+        "ToLocation": "C. Terminal",
+        "Line": 1
+    },
+    {
+        "Fare": 11,
+        "FromLocation": "C. Terminal",
+        "ToLocation": "C. Terminal",
+        "Line": 1
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "Carriedo",
+        "ToLocation": "C. Terminal",
+        "Line": 1
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "D. Jose",
+        "ToLocation": "C. Terminal",
+        "Line": 1
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "Bambang",
+        "ToLocation": "C. Terminal",
+        "Line": 1
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "Tayuman",
+        "ToLocation": "C. Terminal",
+        "Line": 1
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "Blumentritt",
+        "ToLocation": "C. Terminal",
+        "Line": 1
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "A. Santos",
+        "ToLocation": "C. Terminal",
+        "Line": 1
+    },
+    {
+        "Fare": 16,
+        "FromLocation": "R. Papa",
+        "ToLocation": "C. Terminal",
+        "Line": 1
+    },
+    {
+        "Fare": 17,
+        "FromLocation": "5th Ave",
+        "ToLocation": "C. Terminal",
+        "Line": 1
+    },
+    {
+        "Fare": 18,
+        "FromLocation": "Monumento",
+        "ToLocation": "C. Terminal",
+        "Line": 1
+    },
+    {
+        "Fare": 20,
+        "FromLocation": "Balintawak",
+        "ToLocation": "C. Terminal",
+        "Line": 1
+    },
+    {
+        "Fare": 22,
+        "FromLocation": "Roosevelt",
+        "ToLocation": "C. Terminal",
+        "Line": 1
+    },
+    
+    {
+        "Fare": 19,
+        "FromLocation": "Baclaran",
+        "ToLocation": "Carriedo",
+        "Line": 1
+    },
+    {
+        "Fare": 18,
+        "FromLocation": "Edsa",
+        "ToLocation": "Carriedo",
+        "Line": 1
+    },
+    {
+        "Fare": 17,
+        "FromLocation": "Libertad",
+        "ToLocation": "Carriedo",
+        "Line": 1
+    },
+    {
+        "Fare": 16,
+        "FromLocation": "Gil Puyat",
+        "ToLocation": "Carriedo",
+        "Line": 1
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "V. Cruz",
+        "ToLocation": "Carriedo",
+        "Line": 1
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "Quirino",
+        "ToLocation": "Carriedo",
+        "Line": 1
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "P. Gil",
+        "ToLocation": "Carriedo",
+        "Line": 1
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "United Nations",
+        "ToLocation": "Carriedo",
+        "Line": 1
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "C. Terminal",
+        "ToLocation": "Carriedo",
+        "Line": 1
+    },
+    {
+        "Fare": 11,
+        "FromLocation": "Carriedo",
+        "ToLocation": "Carriedo",
+        "Line": 1
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "D. Jose",
+        "ToLocation": "Carriedo",
+        "Line": 1
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "Bambang",
+        "ToLocation": "Carriedo",
+        "Line": 1
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "Tayuman",
+        "ToLocation": "Carriedo",
+        "Line": 1
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "Blumentritt",
+        "ToLocation": "Carriedo",
+        "Line": 1
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "A. Santos",
+        "ToLocation": "Carriedo",
+        "Line": 1
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "R. Papa",
+        "ToLocation": "Carriedo",
+        "Line": 1
+    },
+    {
+        "Fare": 16,
+        "FromLocation": "5th Ave",
+        "ToLocation": "Carriedo",
+        "Line": 1
+    },
+    {
+        "Fare": 17,
+        "FromLocation": "Monumento",
+        "ToLocation": "Carriedo",
+        "Line": 1
+    },
+    {
+        "Fare": 20,
+        "FromLocation": "Balintawak",
+        "ToLocation": "Carriedo",
+        "Line": 1
+    },
+    {
+        "Fare": 22,
+        "FromLocation": "Roosevelt",
+        "ToLocation": "Carriedo",
+        "Line": 1
+    },
+    
+    {
+        "Fare": 19,
+        "FromLocation": "Baclaran",
+        "ToLocation": "D. Jose",
+        "Line": 1
+    },
+    {
+        "Fare": 19,
+        "FromLocation": "Edsa",
+        "ToLocation": "D. Jose",
+        "Line": 1
+    },
+    {
+        "Fare": 18,
+        "FromLocation": "Libertad",
+        "ToLocation": "D. Jose",
+        "Line": 1
+    },
+    {
+        "Fare": 17,
+        "FromLocation": "Gil Puyat",
+        "ToLocation": "D. Jose",
+        "Line": 1
+    },
+    {
+        "Fare": 16,
+        "FromLocation": "V. Cruz",
+        "ToLocation": "D. Jose",
+        "Line": 1
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "Quirino",
+        "ToLocation": "D. Jose",
+        "Line": 1
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "P. Gil",
+        "ToLocation": "D. Jose",
+        "Line": 1
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "United Nations",
+        "ToLocation": "D. Jose",
+        "Line": 1
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "C. Terminal",
+        "ToLocation": "D. Jose",
+        "Line": 1
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "Carriedo",
+        "ToLocation": "D. Jose",
+        "Line": 1
+    },
+    {
+        "Fare": 11,
+        "FromLocation": "D. Jose",
+        "ToLocation": "D. Jose",
+        "Line": 1
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "Bambang",
+        "ToLocation": "D. Jose",
+        "Line": 1
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "Tayuman",
+        "ToLocation": "D. Jose",
+        "Line": 1
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "Blumentritt",
+        "ToLocation": "D. Jose",
+        "Line": 1
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "A. Santos",
+        "ToLocation": "D. Jose",
+        "Line": 1
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "R. Papa",
+        "ToLocation": "D. Jose",
+        "Line": 1
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "5th Ave",
+        "ToLocation": "D. Jose",
+        "Line": 1
+    },
+    {
+        "Fare": 17,
+        "FromLocation": "Monumento",
+        "ToLocation": "D. Jose",
+        "Line": 1
+    },
+    {
+        "Fare": 19,
+        "FromLocation": "Balintawak",
+        "ToLocation": "D. Jose",
+        "Line": 1
+    },
+    {
+        "Fare": 21,
+        "FromLocation": "Roosevelt",
+        "ToLocation": "D. Jose",
+        "Line": 1
+    },
+    
+    {
+        "Fare": 20,
+        "FromLocation": "Baclaran",
+        "ToLocation": "Bambang",
+        "Line": 1
+    },
+    {
+        "Fare": 19,
+        "FromLocation": "Edsa",
+        "ToLocation": "Bambang",
+        "Line": 1
+    },
+    {
+        "Fare": 18,
+        "FromLocation": "Libertad",
+        "ToLocation": "Bambang",
+        "Line": 1
+    },
+    {
+        "Fare": 18,
+        "FromLocation": "Gil Puyat",
+        "ToLocation": "Bambang",
+        "Line": 1
+    },
+    {
+        "Fare": 17,
+        "FromLocation": "V. Cruz",
+        "ToLocation": "Bambang",
+        "Line": 1
+    },
+    {
+        "Fare": 16,
+        "FromLocation": "Quirino",
+        "ToLocation": "Bambang",
+        "Line": 1
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "P. Gil",
+        "ToLocation": "Bambang",
+        "Line": 1
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "United Nations",
+        "ToLocation": "Bambang",
+        "Line": 1
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "C. Terminal",
+        "ToLocation": "Bambang",
+        "Line": 1
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "Carriedo",
+        "ToLocation": "Bambang",
+        "Line": 1
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "D. Jose",
+        "ToLocation": "Bambang",
+        "Line": 1
+    },
+    {
+        "Fare": 11,
+        "FromLocation": "Bambang",
+        "ToLocation": "Bambang",
+        "Line": 1
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "Tayuman",
+        "ToLocation": "Bambang",
+        "Line": 1
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "Blumentritt",
+        "ToLocation": "Bambang",
+        "Line": 1
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "A. Santos",
+        "ToLocation": "Bambang",
+        "Line": 1
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "R. Papa",
+        "ToLocation": "Bambang",
+        "Line": 1
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "5th Ave",
+        "ToLocation": "Bambang",
+        "Line": 1
+    },
+    {
+        "Fare": 16,
+        "FromLocation": "Monumento",
+        "ToLocation": "Bambang",
+        "Line": 1
+    },
+    {
+        "Fare": 18,
+        "FromLocation": "Balintawak",
+        "ToLocation": "Bambang",
+        "Line": 1
+    },
+    {
+        "Fare": 20,
+        "FromLocation": "Roosevelt",
+        "ToLocation": "Bambang",
+        "Line": 1
+    },
+    
+    {
+        "Fare": 21,
+        "FromLocation": "Baclaran",
+        "ToLocation": "Tayuman",
+        "Line": 1
+    },
+    {
+        "Fare": 20,
+        "FromLocation": "Edsa",
+        "ToLocation": "Tayuman",
+        "Line": 1
+    },
+    {
+        "Fare": 19,
+        "FromLocation": "Libertad",
+        "ToLocation": "Tayuman",
+        "Line": 1
+    },
+    {
+        "Fare": 18,
+        "FromLocation": "Gil Puyat",
+        "ToLocation": "Tayuman",
+        "Line": 1
+    },
+    {
+        "Fare": 17,
+        "FromLocation": "V. Cruz",
+        "ToLocation": "Tayuman",
+        "Line": 1
+    },
+    {
+        "Fare": 16,
+        "FromLocation": "Quirino",
+        "ToLocation": "Tayuman",
+        "Line": 1
+    },
+    {
+        "Fare": 16,
+        "FromLocation": "P. Gil",
+        "ToLocation": "Tayuman",
+        "Line": 1
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "United Nations",
+        "ToLocation": "Tayuman",
+        "Line": 1
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "C. Terminal",
+        "ToLocation": "Tayuman",
+        "Line": 1
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "Carriedo",
+        "ToLocation": "Tayuman",
+        "Line": 1
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "D. Jose",
+        "ToLocation": "Tayuman",
+        "Line": 1
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "Bambang",
+        "ToLocation": "Tayuman",
+        "Line": 1
+    },
+    {
+        "Fare": 11,
+        "FromLocation": "Tayuman",
+        "ToLocation": "Tayuman",
+        "Line": 1
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "Blumentritt",
+        "ToLocation": "Tayuman",
+        "Line": 1
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "A. Santos",
+        "ToLocation": "Tayuman",
+        "Line": 1
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "R. Papa",
+        "ToLocation": "Tayuman",
+        "Line": 1
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "5th Ave",
+        "ToLocation": "Tayuman",
+        "Line": 1
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "Monumento",
+        "ToLocation": "Tayuman",
+        "Line": 1
+    },
+    {
+        "Fare": 18,
+        "FromLocation": "Balintawak",
+        "ToLocation": "Tayuman",
+        "Line": 1
+    },
+    {
+        "Fare": 20,
+        "FromLocation": "Roosevelt",
+        "ToLocation": "Tayuman",
+        "Line": 1
+    },
+    
+    {
+        "Fare": 21,
+        "FromLocation": "Baclaran",
+        "ToLocation": "Blumentritt",
+        "Line": 1
+    },
+    {
+        "Fare": 21,
+        "FromLocation": "Edsa",
+        "ToLocation": "Blumentritt",
+        "Line": 1
+    },
+    {
+        "Fare": 20,
+        "FromLocation": "Libertad",
+        "ToLocation": "Blumentritt",
+        "Line": 1
+    },
+    {
+        "Fare": 19,
+        "FromLocation": "Gil Puyat",
+        "ToLocation": "Blumentritt",
+        "Line": 1
+    },
+    {
+        "Fare": 18,
+        "FromLocation": "V. Cruz",
+        "ToLocation": "Blumentritt",
+        "Line": 1
+    },
+    {
+        "Fare": 17,
+        "FromLocation": "Quirino",
+        "ToLocation": "Blumentritt",
+        "Line": 1
+    },
+    {
+        "Fare": 16,
+        "FromLocation": "P. Gil",
+        "ToLocation": "Blumentritt",
+        "Line": 1
+    },
+    {
+        "Fare": 16,
+        "FromLocation": "United Nations",
+        "ToLocation": "Blumentritt",
+        "Line": 1
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "C. Terminal",
+        "ToLocation": "Blumentritt",
+        "Line": 1
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "Carriedo",
+        "ToLocation": "Blumentritt",
+        "Line": 1
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "D. Jose",
+        "ToLocation": "Blumentritt",
+        "Line": 1
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "Bambang",
+        "ToLocation": "Blumentritt",
+        "Line": 1
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "Tayuman",
+        "ToLocation": "Blumentritt",
+        "Line": 1
+    },
+    {
+        "Fare": 11,
+        "FromLocation": "Blumentritt",
+        "ToLocation": "Blumentritt",
+        "Line": 1
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "A. Santos",
+        "ToLocation": "Blumentritt",
+        "Line": 1
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "R. Papa",
+        "ToLocation": "Blumentritt",
+        "Line": 1
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "5th Ave",
+        "ToLocation": "Blumentritt",
+        "Line": 1
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "Monumento",
+        "ToLocation": "Blumentritt",
+        "Line": 1
+    },
+    {
+        "Fare": 17,
+        "FromLocation": "Balintawak",
+        "ToLocation": "Blumentritt",
+        "Line": 1
+    },
+    {
+        "Fare": 19,
+        "FromLocation": "Roosevelt",
+        "ToLocation": "Blumentritt",
+        "Line": 1
+    },
+    
+    {
+        "Fare": 22,
+        "FromLocation": "Baclaran",
+        "ToLocation": "A. Santos",
+        "Line": 1
+    },
+    {
+        "Fare": 22,
+        "FromLocation": "Edsa",
+        "ToLocation": "A. Santos",
+        "Line": 1
+    },
+    {
+        "Fare": 21,
+        "FromLocation": "Libertad",
+        "ToLocation": "A. Santos",
+        "Line": 1
+    },
+    {
+        "Fare": 20,
+        "FromLocation": "Gil Puyat",
+        "ToLocation": "A. Santos",
+        "Line": 1
+    },
+    {
+        "Fare": 19,
+        "FromLocation": "V. Cruz",
+        "ToLocation": "A. Santos",
+        "Line": 1
+    },
+    {
+        "Fare": 18,
+        "FromLocation": "Quirino",
+        "ToLocation": "A. Santos",
+        "Line": 1
+    },
+    {
+        "Fare": 17,
+        "FromLocation": "P. Gil",
+        "ToLocation": "A. Santos",
+        "Line": 1
+    },
+    {
+        "Fare": 17,
+        "FromLocation": "United Nations",
+        "ToLocation": "A. Santos",
+        "Line": 1
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "C. Terminal",
+        "ToLocation": "A. Santos",
+        "Line": 1
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "Carriedo",
+        "ToLocation": "A. Santos",
+        "Line": 1
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "D. Jose",
+        "ToLocation": "A. Santos",
+        "Line": 1
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "Bambang",
+        "ToLocation": "A. Santos",
+        "Line": 1
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "Tayuman",
+        "ToLocation": "A. Santos",
+        "Line": 1
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "Blumentritt",
+        "ToLocation": "A. Santos",
+        "Line": 1
+    },
+    {
+        "Fare": 11,
+        "FromLocation": "A. Santos",
+        "ToLocation": "A. Santos",
+        "Line": 1
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "R. Papa",
+        "ToLocation": "A. Santos",
+        "Line": 1
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "5th Ave",
+        "ToLocation": "A. Santos",
+        "Line": 1
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "Monumento",
+        "ToLocation": "A. Santos",
+        "Line": 1
+    },
+    {
+        "Fare": 16,
+        "FromLocation": "Balintawak",
+        "ToLocation": "A. Santos",
+        "Line": 1
+    },
+    {
+        "Fare": 18,
+        "FromLocation": "Roosevelt",
+        "ToLocation": "A. Santos",
+        "Line": 1
+    },
+    
+    {
+        "Fare": 23,
+        "FromLocation": "Baclaran",
+        "ToLocation": "R. Papa",
+        "Line": 1
+    },
+    {
+        "Fare": 22,
+        "FromLocation": "Edsa",
+        "ToLocation": "R. Papa",
+        "Line": 1
+    },
+    {
+        "Fare": 21,
+        "FromLocation": "Libertad",
+        "ToLocation": "R. Papa",
+        "Line": 1
+    },
+    {
+        "Fare": 21,
+        "FromLocation": "Gil Puyat",
+        "ToLocation": "R. Papa",
+        "Line": 1
+    },
+    {
+        "Fare": 20,
+        "FromLocation": "V. Cruz",
+        "ToLocation": "R. Papa",
+        "Line": 1
+    },
+    {
+        "Fare": 19,
+        "FromLocation": "Quirino",
+        "ToLocation": "R. Papa",
+        "Line": 1
+    },
+    {
+        "Fare": 18,
+        "FromLocation": "P. Gil",
+        "ToLocation": "R. Papa",
+        "Line": 1
+    },
+    {
+        "Fare": 17,
+        "FromLocation": "United Nations",
+        "ToLocation": "R. Papa",
+        "Line": 1
+    },
+    {
+        "Fare": 16,
+        "FromLocation": "C. Terminal",
+        "ToLocation": "R. Papa",
+        "Line": 1
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "Carriedo",
+        "ToLocation": "R. Papa",
+        "Line": 1
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "D. Jose",
+        "ToLocation": "R. Papa",
+        "Line": 1
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "Bambang",
+        "ToLocation": "R. Papa",
+        "Line": 1
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "Tayuman",
+        "ToLocation": "R. Papa",
+        "Line": 1
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "Blumentritt",
+        "ToLocation": "R. Papa",
+        "Line": 1
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "A. Santos",
+        "ToLocation": "R. Papa",
+        "Line": 1
+    },
+    {
+        "Fare": 11,
+        "FromLocation": "R. Papa",
+        "ToLocation": "R. Papa",
+        "Line": 1
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "5th Ave",
+        "ToLocation": "R. Papa",
+        "Line": 1
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "Monumento",
+        "ToLocation": "R. Papa",
+        "Line": 1
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "Balintawak",
+        "ToLocation": "R. Papa",
+        "Line": 1
+    },
+    {
+        "Fare": 17,
+        "FromLocation": "Roosevelt",
+        "ToLocation": "R. Papa",
+        "Line": 1
+    },
+    
+    {
+        "Fare": 24,
+        "FromLocation": "Baclaran",
+        "ToLocation": "5th Ave",
+        "Line": 1
+    },
+    {
+        "Fare": 23,
+        "FromLocation": "Edsa",
+        "ToLocation": "5th Ave",
+        "Line": 1
+    },
+    {
+        "Fare": 22,
+        "FromLocation": "Libertad",
+        "ToLocation": "5th Ave",
+        "Line": 1
+    },
+    {
+        "Fare": 22,
+        "FromLocation": "Gil Puyat",
+        "ToLocation": "5th Ave",
+        "Line": 1
+    },
+    {
+        "Fare": 21,
+        "FromLocation": "V. Cruz",
+        "ToLocation": "5th Ave",
+        "Line": 1
+    },
+    {
+        "Fare": 20,
+        "FromLocation": "Quirino",
+        "ToLocation": "5th Ave",
+        "Line": 1
+    },
+    {
+        "Fare": 19,
+        "FromLocation": "P. Gil",
+        "ToLocation": "5th Ave",
+        "Line": 1
+    },
+    {
+        "Fare": 18,
+        "FromLocation": "United Nations",
+        "ToLocation": "5th Ave",
+        "Line": 1
+    },
+    {
+        "Fare": 17,
+        "FromLocation": "C. Terminal",
+        "ToLocation": "5th Ave",
+        "Line": 1
+    },
+    {
+        "Fare": 16,
+        "FromLocation": "Carriedo",
+        "ToLocation": "5th Ave",
+        "Line": 1
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "D. Jose",
+        "ToLocation": "5th Ave",
+        "Line": 1
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "Bambang",
+        "ToLocation": "5th Ave",
+        "Line": 1
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "Tayuman",
+        "ToLocation": "5th Ave",
+        "Line": 1
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "Blumentritt",
+        "ToLocation": "5th Ave",
+        "Line": 1
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "A. Santos",
+        "ToLocation": "5th Ave",
+        "Line": 1
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "R. Papa",
+        "ToLocation": "5th Ave",
+        "Line": 1
+    },
+    {
+        "Fare": 11,
+        "FromLocation": "5th Ave",
+        "ToLocation": "5th Ave",
+        "Line": 1
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "Monumento",
+        "ToLocation": "5th Ave",
+        "Line": 1
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "Balintawak",
+        "ToLocation": "5th Ave",
+        "Line": 1
+    },
+    {
+        "Fare": 16,
+        "FromLocation": "Roosevelt",
+        "ToLocation": "5th Ave",
+        "Line": 1
+    },
+    
+    {
+        "Fare": 25,
+        "FromLocation": "Baclaran",
+        "ToLocation": "Monumento",
+        "Line": 1
+    },
+    {
+        "Fare": 24,
+        "FromLocation": "Edsa",
+        "ToLocation": "Monumento",
+        "Line": 1
+    },
+    {
+        "Fare": 23,
+        "FromLocation": "Libertad",
+        "ToLocation": "Monumento",
+        "Line": 1
+    },
+    {
+        "Fare": 23,
+        "FromLocation": "Gil Puyat",
+        "ToLocation": "Monumento",
+        "Line": 1
+    },
+    {
+        "Fare": 22,
+        "FromLocation": "V. Cruz",
+        "ToLocation": "Monumento",
+        "Line": 1
+    },
+    {
+        "Fare": 21,
+        "FromLocation": "Quirino",
+        "ToLocation": "Monumento",
+        "Line": 1
+    },
+    {
+        "Fare": 20,
+        "FromLocation": "P. Gil",
+        "ToLocation": "Monumento",
+        "Line": 1
+    },
+    {
+        "Fare": 19,
+        "FromLocation": "United Nations",
+        "ToLocation": "Monumento",
+        "Line": 1
+    },
+    {
+        "Fare": 18,
+        "FromLocation": "C. Terminal",
+        "ToLocation": "Monumento",
+        "Line": 1
+    },
+    {
+        "Fare": 17,
+        "FromLocation": "Carriedo",
+        "ToLocation": "Monumento",
+        "Line": 1
+    },
+    {
+        "Fare": 17,
+        "FromLocation": "D. Jose",
+        "ToLocation": "Monumento",
+        "Line": 1
+    },
+    {
+        "Fare": 16,
+        "FromLocation": "Bambang",
+        "ToLocation": "Monumento",
+        "Line": 1
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "Tayuman",
+        "ToLocation": "Monumento",
+        "Line": 1
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "Blumentritt",
+        "ToLocation": "Monumento",
+        "Line": 1
+    },
+    {
+        "Fare": 14,
+        "FromLocation": "A. Santos",
+        "ToLocation": "Monumento",
+        "Line": 1
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "R. Papa",
+        "ToLocation": "Monumento",
+        "Line": 1
+    },
+    {
+        "Fare": 12,
+        "FromLocation": "5th Ave",
+        "ToLocation": "Monumento",
+        "Line": 1
+    },
+    {
+        "Fare": 11,
+        "FromLocation": "Monumento",
+        "ToLocation": "Monumento",
+        "Line": 1
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "Balintawak",
+        "ToLocation": "Monumento",
+        "Line": 1
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "Roosevelt",
+        "ToLocation": "Monumento",
+        "Line": 1
+    },
+    
+    {
+        "Fare": 27,
+        "FromLocation": "Baclaran",
+        "ToLocation": "Balintawak",
+        "Line": 1
+    },
+    {
+        "Fare": 27,
+        "FromLocation": "Edsa",
+        "ToLocation": "Balintawak",
+        "Line": 1
+    },
+    {
+        "Fare": 26,
+        "FromLocation": "Libertad",
+        "ToLocation": "Balintawak",
+        "Line": 1
+    },
+    {
+        "Fare": 25,
+        "FromLocation": "Gil Puyat",
+        "ToLocation": "Balintawak",
+        "Line": 1
+    },
+    {
+        "Fare": 24,
+        "FromLocation": "V. Cruz",
+        "ToLocation": "Balintawak",
+        "Line": 1
+    },
+    {
+        "Fare": 23,
+        "FromLocation": "Quirino",
+        "ToLocation": "Balintawak",
+        "Line": 1
+    },
+    {
+        "Fare": 22,
+        "FromLocation": "P. Gil",
+        "ToLocation": "Balintawak",
+        "Line": 1
+    },
+    {
+        "Fare": 22,
+        "FromLocation": "United Nations",
+        "ToLocation": "Balintawak",
+        "Line": 1
+    },
+    {
+        "Fare": 20,
+        "FromLocation": "C. Terminal",
+        "ToLocation": "Balintawak",
+        "Line": 1
+    },
+    {
+        "Fare": 20,
+        "FromLocation": "Carriedo",
+        "ToLocation": "Balintawak",
+        "Line": 1
+    },
+    {
+        "Fare": 19,
+        "FromLocation": "D. Jose",
+        "ToLocation": "Balintawak",
+        "Line": 1
+    },
+    {
+        "Fare": 18,
+        "FromLocation": "Bambang",
+        "ToLocation": "Balintawak",
+        "Line": 1
+    },
+    {
+        "Fare": 18,
+        "FromLocation": "Tayuman",
+        "ToLocation": "Balintawak",
+        "Line": 1
+    },
+    {
+        "Fare": 17,
+        "FromLocation": "Blumentritt",
+        "ToLocation": "Balintawak",
+        "Line": 1
+    },
+    {
+        "Fare": 16,
+        "FromLocation": "A. Santos",
+        "ToLocation": "Balintawak",
+        "Line": 1
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "R. Papa",
+        "ToLocation": "Balintawak",
+        "Line": 1
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "5th Ave",
+        "ToLocation": "Balintawak",
+        "Line": 1
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "Monumento",
+        "ToLocation": "Balintawak",
+        "Line": 1
+    },
+    {
+        "Fare": 11,
+        "FromLocation": "Balintawak",
+        "ToLocation": "Balintawak",
+        "Line": 1
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "Roosevelt",
+        "ToLocation": "Balintawak",
+        "Line": 1
+    },
+    
+    {
+        "Fare": 29,
+        "FromLocation": "Baclaran",
+        "ToLocation": "Roosevelt",
+        "Line": 1
+    },
+    {
+        "Fare": 29,
+        "FromLocation": "Edsa",
+        "ToLocation": "Roosevelt",
+        "Line": 1
+    },
+    {
+        "Fare": 28,
+        "FromLocation": "Libertad",
+        "ToLocation": "Roosevelt",
+        "Line": 1
+    },
+    {
+        "Fare": 27,
+        "FromLocation": "Gil Puyat",
+        "ToLocation": "Roosevelt",
+        "Line": 1
+    },
+    {
+        "Fare": 26,
+        "FromLocation": "V. Cruz",
+        "ToLocation": "Roosevelt",
+        "Line": 1
+    },
+    {
+        "Fare": 25,
+        "FromLocation": "Quirino",
+        "ToLocation": "Roosevelt",
+        "Line": 1
+    },
+    {
+        "Fare": 24,
+        "FromLocation": "P. Gil",
+        "ToLocation": "Roosevelt",
+        "Line": 1
+    },
+    {
+        "Fare": 23,
+        "FromLocation": "United Nations",
+        "ToLocation": "Roosevelt",
+        "Line": 1
+    },
+    {
+        "Fare": 22,
+        "FromLocation": "C. Terminal",
+        "ToLocation": "Roosevelt",
+        "Line": 1
+    },
+    {
+        "Fare": 22,
+        "FromLocation": "Carriedo",
+        "ToLocation": "Roosevelt",
+        "Line": 1
+    },
+    {
+        "Fare": 21,
+        "FromLocation": "D. Jose",
+        "ToLocation": "Roosevelt",
+        "Line": 1
+    },
+    {
+        "Fare": 20,
+        "FromLocation": "Bambang",
+        "ToLocation": "Roosevelt",
+        "Line": 1
+    },
+    {
+        "Fare": 20,
+        "FromLocation": "Tayuman",
+        "ToLocation": "Roosevelt",
+        "Line": 1
+    },
+    {
+        "Fare": 19,
+        "FromLocation": "Blumentritt",
+        "ToLocation": "Roosevelt",
+        "Line": 1
+    },
+    {
+        "Fare": 18,
+        "FromLocation": "A. Santos",
+        "ToLocation": "Roosevelt",
+        "Line": 1
+    },
+    {
+        "Fare": 17,
+        "FromLocation": "R. Papa",
+        "ToLocation": "Roosevelt",
+        "Line": 1
+    },
+    {
+        "Fare": 16,
+        "FromLocation": "5th Ave",
+        "ToLocation": "Roosevelt",
+        "Line": 1
+    },
+    {
+        "Fare": 15,
+        "FromLocation": "Monumento",
+        "ToLocation": "Roosevelt",
+        "Line": 1
+    },
+    {
+        "Fare": 13,
+        "FromLocation": "Balintawak",
+        "ToLocation": "Roosevelt",
+        "Line": 1
+    },
+    {
+        "Fare": 11,
+        "FromLocation": "Roosevelt",
+        "ToLocation": "Roosevelt",
+        "Line": 1
+    }
+]

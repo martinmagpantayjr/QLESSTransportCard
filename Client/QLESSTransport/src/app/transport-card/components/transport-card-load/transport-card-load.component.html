@@ -1,0 +1,31 @@
+<div class="row">
+    <div class="col-12">
+        <h3 class="bg-light py-4">Add card balance here <br>
+        </h3>
+    </div>
+
+    <div class="col-12">
+        <form [formGroup]="loadForm" (ngSubmit)="onSubmit(loadForm.value)">
+            <div class="form-group row">
+                <label for="transportCardId" class="col-sm-2 col-form-label">Transport Card ID:</label>
+                <div class="col-sm-10">
+                    <input id="transportCardId" type="number" formControlName="transportCardId">
+                </div>
+            </div>
+            <div class="form-group row">
+                <label for="load" class="col-sm-2 col-form-label">Load Amount:</label>
+                <div class="col-sm-10">
+                    <input id="load" type="number" formControlName="load" required>
+                </div>
+            </div>
+            <div class="form-group row">
+                <label for="cash" class="col-sm-2 col-form-label">Cash:</label>
+                <div class="col-sm-10">
+                    <input id="cash" type="number" formControlName="cash" required>
+                </div>
+            </div>
+            <button type="submit" class="btn btn-primary"
+                [disabled]="loadForm.invalid || processing">{{processBtnLabel}}</button>
+        </form>
+    </div>
+</div>
