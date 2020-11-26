@@ -29,4 +29,12 @@ export class TransportCardService {
   registerTransportCard(id: number, discountRegistrationType: DiscountRegistrationTypeEnum, discountId: string) {
     return this.http.post(`${this.url}/RegisterTransportCard?id=${id}&discountType=${discountRegistrationType}&discountId=${discountId}`, {});
   }
+
+  payFare(id: number, fromLocation: string, toLocation: string) {    
+    return this.http.post(`${this.url}/PayFare?id=${id}&fromLocation=${fromLocation}&toLocation=${toLocation}`, {});
+  }
+
+  getCardBalance(id: number) {
+    return this.http.get(`${this.url}/GetCardBalance?id=${id}`);
+  }
 }

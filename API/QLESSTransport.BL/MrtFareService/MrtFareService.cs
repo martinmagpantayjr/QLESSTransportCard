@@ -25,13 +25,13 @@ namespace API.QLESSTransport.BL.MrtFareService
             return await _context.MrtFares.Where(p => p.Line == mrtLine).ToListAsync();
         }
 
-        public async Task<MrtFare> GetMrtFaresByLocation(string fromLocation, string toLocation)
+        public async Task<MrtFare> GetMrtFareByLocation(string fromLocation, string toLocation)
         {
             return await _context.MrtFares.Where(m => 
             (m.FromLocation.ToLower() == fromLocation.ToLower() 
-                || m.ToLocation.ToLower() == fromLocation.ToLower()) 
-            && (m.ToLocation.ToLower() == toLocation.ToLower() 
-                || m.FromLocation.ToLower() == toLocation.ToLower()))
+                && m.ToLocation.ToLower() == toLocation.ToLower()) 
+            || (m.FromLocation.ToLower() == toLocation.ToLower() 
+                && m.ToLocation.ToLower() == fromLocation.ToLower()))
                 .FirstOrDefaultAsync();
         }
 
@@ -48,6 +48,17 @@ namespace API.QLESSTransport.BL.MrtFareService
             });
 
             return await _context.SaveChangesAsync() > 0;
+        }
+
+        public async Task<IEnumerable<string>> GetMrtLocations(MRTLineTypeEnum mrtLine)
+        {
+            var mrt1Locations = await _context.MrtFares.Where(m => m.Line == mrtLine)
+                                                  .Select(s => s.FromLocation)
+                                                  .Distinct()
+                                                  .OrderBy(o => o)
+                                                  .ToListAsync();
+
+            return mrt1Locations;
         }
     }
 }

@@ -1,1 +1,72 @@
-<p>transport-card-pay works!</p>
+<div class="row">
+    <div class="col-12">
+        <h3 class="bg-light py-4">Pay your fare here <br>
+        </h3>
+    </div>
+
+    <div class="col-12">
+        <form [formGroup]="payForm" (ngSubmit)="onSubmit(payForm.value)">
+            <div class="form-group row">
+                <label for="transportCardId" class="col-sm-2 col-form-label">Transport Card ID:</label>
+                <div class="col-sm-10">
+                    <input id="transportCardId" type="number" min="100" max="10000" formControlName="transportCardId"
+                        required>
+                </div>
+                <h6 class="col-sm-12"><em style="font-size: .8em;">Your current card balance is: {{cardBalance}}</em>
+                </h6>
+            </div>
+            <div class="form-group row">
+                <label for="mrtLine1" class="col-sm-2 col-form-label">MRT Line 1:</label>
+                <div class="col-sm-10">
+                    <input class="align-middle" id="mrtLine1" name="mrtLine" type="radio" value="1"
+                        formControlName="mrtLine">
+                </div>
+
+                <label for="mrtLine2" class="col-sm-2 col-form-label">MRT Line 2:</label>
+                <div class="col-sm-10">
+                    <input class="align-middle" id="mrtLine2" name="mrtLine" type="radio" value="2"
+                        formControlName="mrtLine">
+                </div>
+            </div>
+            <div class="form-group row">
+                <label for="fromLocation" class="col-sm-2 col-form-label">From Location:</label>
+                <div class="col-sm-10">
+                    <select id="fromLocation" formControlName="fromLocation">
+                        <option *ngFor="let location of mrtLocations" [ngValue]="location">{{ location }}</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <label for="toLocation" class="col-sm-2 col-form-label">To Location:</label>
+                <div class="col-sm-10">
+                    <select id="toLocation" formControlName="toLocation">
+                        <option *ngFor="let location of mrtLocations" [ngValue]="location">{{ location }}</option>
+                    </select>
+                </div>
+                <h6 class="col-sm-12"><em style="font-size: .8em;">Your fare to pay: {{currentFare}}</em></h6>
+            </div>
+
+            <div class="form-group row pt-3">
+                <h6 class="col-sm-12 text-danger">
+                    <em style="font-size: .8em;">
+                        Discounts will apply based on usage* and card type**
+                    </em>
+                </h6>
+                <h6 class="col-sm-12 text-danger">
+                    <em style="font-size: .8em;">
+                        *3% for 4 times a day
+                    </em>
+                </h6>
+                <h6 class="col-sm-12 text-danger">
+                    <em style="font-size: .8em;">
+                        **20% for discounted/registered cards (PWD or Senior Citizen)
+                    </em>
+                </h6>
+            </div>
+
+            <button type="submit" class="btn btn-primary"
+                [disabled]="payForm.invalid || processing">{{processBtnLabel}}</button>
+        </form>
+    </div>
+</div>

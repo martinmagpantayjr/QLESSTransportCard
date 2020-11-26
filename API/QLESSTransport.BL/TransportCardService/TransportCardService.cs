@@ -130,7 +130,7 @@ namespace API.QLESSTransport.BL.TransportCardService
         {
             var transportCard = await GetCardDetailById(id);
 
-            var fareDetail = await _mrtFareService.GetMrtFaresByLocation(fromLocation, toLocation);
+            var fareDetail = await _mrtFareService.GetMrtFareByLocation(fromLocation, toLocation);
 
             if (fareDetail == null)
             {
@@ -142,17 +142,17 @@ namespace API.QLESSTransport.BL.TransportCardService
             if (transportCard.DiscountAppliedCount <= _maximumRegularDiscountCount)
             {
                 transportCard.DiscountAppliedCount++;
-                fareAfterDiscount = fareDetail.Fare * .03;
+                fareAfterDiscount = fareDetail.Fare - (fareDetail.Fare * .03);
             } 
             else if (transportCard.LastUsedDate.HasValue && new DateTime().Date > transportCard.LastUsedDate.Value.Date)
             {
                 transportCard.DiscountAppliedCount = 1;
-                fareAfterDiscount = fareDetail.Fare * .03;
+                fareAfterDiscount = fareDetail.Fare - (fareDetail.Fare * .03);
             }
 
             if (transportCard.TransportCardType == TransportCardTypeEnum.Discounted)
             { // To use for PWD and Senior checking
-                fareAfterDiscount *= .2;
+                fareAfterDiscount = fareAfterDiscount - (fareAfterDiscount * .2);
             }
 
             if (transportCard.Load < fareAfterDiscount)
@@ -167,6 +167,13 @@ namespace API.QLESSTransport.BL.TransportCardService
             {
                 throw new Exception("Payment failed");
             }
+
+            return transportCard.Load;
+        }
+
+        public async Task<double> GetCardBalance(int id)
+        {
+            var transportCard = await GetCardDetailById(id);
 
             return transportCard.Load;
         }

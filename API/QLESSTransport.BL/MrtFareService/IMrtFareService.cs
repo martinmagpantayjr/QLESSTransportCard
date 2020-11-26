@@ -8,8 +8,9 @@ namespace API.QLESSTransport.BL.MrtFareService
     public interface IMrtFareService
     {
         Task<IEnumerable<MrtFare>> GetMrtFares();
-        Task<MrtFare> GetMrtFaresByLocation(string fromLocation, string toLocation);
+        Task<MrtFare> GetMrtFareByLocation(string fromLocation, string toLocation);
         Task<IEnumerable<MrtFare>> GetMrtFaresByLine(MRTLineTypeEnum mrtLine);
         Task<bool> UpdateMrtFares(IEnumerable<MrtFare> faresToUpdate);
+        Task<IEnumerable<string>> GetMrtLocations(MRTLineTypeEnum mrtLine);
     }
 }

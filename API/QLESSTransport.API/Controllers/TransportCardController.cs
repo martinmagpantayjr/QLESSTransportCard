@@ -52,5 +52,11 @@ namespace API.QLESSTransport.API.Controllers
         {
             return await _service.PayFare(id, fromLocation, toLocation);
         }
+
+        [HttpGet]
+        public async Task<double> GetCardBalance(int id)
+        {
+            return await _service.GetCardBalance(id);
+        }
     }
 }
